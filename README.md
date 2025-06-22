@@ -54,7 +54,7 @@ A full-stack clone of Airbnb focused on building a real-world booking platform. 
 
 ---
 
-## 📂 Roles in the Team
+## 📂 Project Roles and Responsibilities
 
 - **Project Manager:** Timeline & coordination  
 - **Frontend Devs:** Build UI components  
@@ -65,7 +65,7 @@ A full-stack clone of Airbnb focused on building a real-world booking platform. 
 
 ---
 
-## 🧱 Planned UI Components
+## 🧱 UI Component Patterns
 
 - **Navbar:** Logo, search, profile menu  
 - **Property Card:** Image, price, rating, location  
