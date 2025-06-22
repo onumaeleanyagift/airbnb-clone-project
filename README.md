@@ -25,6 +25,17 @@ A full-stack clone of Airbnb focused on building a real-world booking platform. 
 
 ---
 
+## 🎨 UI/UX Design Planning
+
+### Design Goals
+
+- Intuitive and seamless **booking flow**
+- Fast performance and **mobile-first responsiveness**
+- Visual **consistency** with brand colors and fonts
+- Accessibility-first design (WCAG standards)
+
+---
+
 ## 📄 Main Pages
 
 | Page                 | Description                                |
